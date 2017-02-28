@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="windowActionBar">true</item>
+    <item name="windowNoTitle">false</item>
+    <item name="colorPrimary">#2B5C56</item>
+    <item name="colorPrimaryDark">#000000</item>
+    <item name="colorAccent">#FFEE58</item>
+  </style>
+</resources>
